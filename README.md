@@ -1,1 +1,1 @@
-# e-plant-app
+# coding-project-template
